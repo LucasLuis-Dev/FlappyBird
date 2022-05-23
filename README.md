@@ -6,25 +6,16 @@
 
 - Projeto de jogo cópia do Flappy Bird
 - O projeto foi feito no curso Python impressionador disponibilizado pela Hashtag Treinamentos
-- O Jogo foi feito utilizando python orientado ao objeto e a biblioteca pygame
+- O Jogo foi feito utilizando o python orientado ao objeto e a biblioteca pygame
 
 ## Passo a Passo de utilização
 
-- Infelizmente não consegui transformar o arquivo python em executável
--  Para ter acesso ao jogo é necessário fazer os seguintes passos:  
+- O arquivo python referente ao jogo foi transformado em um arquivo executável possibilitando a utilização por um usuário comum sem ser necessário a instalação de outros softwares, linguagens e editores de código.
+- Para acessar o jogo basta apenas intalar um arquivo compactado que esta disponivel no link:   https://drive.google.com/file/d/1vYiTVE-nNc91v0wR2UgmV3SygCjr3Pzx/view
+- Após a instação basta descompactar, abrir a pasta resultante da descompactação e dar dois cliques no arquivo "FlappyBird"
+- Após isso é só curtir o jogo que para ser jogado é necessário apenas apertar a barra de espaço do seu teclado
 
-1ª- É necessario fazer a instalação do Python em seu computador
-<br>
-<a target="_blank" href="https://www.python.org/downloads/">Clicando aqui você será redirecionado a página de download do Python</a>  
-<br>
-<br> 
-2ª- É necessario a instalação de um editor de código em seu computador
-<br>
-<a target="_blank" href="https://www.jetbrains.com/pt-br/pycharm/download/#section=windows">Clicando aqui você será redirecionado a página de download do editor de código</a>
-<br>
-<br>
-3ª- É necessario abrir o terminal ou cmd e instalar a biblioteca Pygame  
-Rode o seguinte comando no terminal/cmd: `pip install pygame`
-<br>
-<br>
-4ª- Agora já esta tudo pronto basta apenas abrir a pasta baixada dos codigos que estão aqui no github com o editor de codigo e clicar em executar
+
+## Vídeo demonstrativo:
+
+[![Watch the video](https://cdn.discordapp.com/attachments/965066624556232737/978310321460625458/Captura_de_tela_de_2022-05-23_11-55-13.png)](https://drive.google.com/file/d/1jY_JNNa30tDvwbXgla_xYIqQf5R5iucF/view?usp=sharing)
