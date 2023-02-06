@@ -28,14 +28,20 @@ Após a instalação de ambos é necessário que você abra o seu Prompt de coma
 **1 - Passo:**
 Baixar uma cópia desse repositório para que possa ter acesso aos códigos do jogo
 
+<img src="https://cdn.discordapp.com/attachments/965066624556232737/1071987464811577364/Captura_de_tela_de_2023-02-05_23-46-45.png">
+
 **2 - Passo:**
 Abrir o arquivo baixado através do VsCode
 
+<img  src="https://cdn.discordapp.com/attachments/965066624556232737/1071987465109377084/Captura_de_tela_de_2023-02-05_23-52-25.png">
+
 **3 - Passo**
-Rodar o arquivo Python no VsCode e curtir o jogo 
+Rodar o arquivo Python no VsCode e curtir o jogo
+<img src="https://cdn.discordapp.com/attachments/965066624556232737/1071987465465905262/Captura_de_tela_de_2023-02-05_23-52-51.png">
+
+<hr>
 
 
+## 🎥 Vídeo demonstrativo:
 
-## Vídeo demonstrativo:
-
-[![Watch the video](https://cdn.discordapp.com/attachments/965066624556232737/978310321460625458/Captura_de_tela_de_2022-05-23_11-55-13.png)](https://drive.google.com/file/d/1jY_JNNa30tDvwbXgla_xYIqQf5R5iucF/view?usp=sharing)
+[![Watch the video](https://cdn.discordapp.com/attachments/965066624556232737/1071994927787028631/Captura_de_tela_de_2023-02-06_00-24-39.png)](https://drive.google.com/file/d/1jjAm9HhviITKaMTACYfDGJDlyRwsZKo7/view?usp=sharing)
